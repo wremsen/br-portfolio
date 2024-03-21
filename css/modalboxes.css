@@ -21,6 +21,14 @@
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
+
+/* #skillsBoxIcons {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+} */
+
 .erling_tm_modalbox.opened{
 	opacity: 1;
 	visibility: visible;
